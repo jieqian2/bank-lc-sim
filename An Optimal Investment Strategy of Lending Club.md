@@ -1,4 +1,7 @@
-Main Controbutor: 
+# An Optimal Investment Strategy of Lending Club
+----
+
+Main Controbutors: 
 * Zihan Chen
 * Yulong Wang @wyyyl
 * Chenyi Yang 
