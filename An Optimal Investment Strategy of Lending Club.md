@@ -15,13 +15,7 @@ With these models, we simulate a retail bank, experiment with optimization appro
 ## Database and its Distribution
 
 The raw Lending Club (LC) database details 2,260,668 loans issued by Lending Club from June 2007 to December 2018. The loan status is shown in Table 1-1.
-Table 1-1 Lending Club Loans Description
-Loan Status	Fully paid	Charged off	Late (16-30 days)	Late (31-120 days)	Current
-Num of Loans	1,041,952	261,655	3,737	21,897	919,695
-Loan Status	In Grace Period	Default
-	Violation of Credit Policies.
-Status: Charged Off	Violation of Credit Policies.
-Status: Fully Paid	
-Number	8,952	31	761	1,988	
+
+
 
 Obviously, ‘Current’, 'Fully paid' and 'Charged off' loans account for the most important part of the data set. 
