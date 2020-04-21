@@ -265,7 +265,7 @@ Last but not least, we have designed a simulation process used to compare differ
 
 [2] Original Strategy: https://github.com/kingaj12/bank-lc-sim
 
-[3] Optimal Strategy: 
+[3] Optimal Strategy: https://github.com/jieqian2/bank-lc-sim/tree/master/notebook 
 
 
 
