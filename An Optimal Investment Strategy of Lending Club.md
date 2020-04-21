@@ -16,6 +16,6 @@ With these models, we simulate a retail bank, experiment with optimization appro
 
 The raw Lending Club (LC) database details 2,260,668 loans issued by Lending Club from June 2007 to December 2018. The loan status is shown in Table 1-1.
 
-
+![image](https://github.com/jieqian2/bank-lc-sim/blob/master/pic/table1-1.png)
 
 Obviously, ‘Current’, 'Fully paid' and 'Charged off' loans account for the most important part of the data set. 
