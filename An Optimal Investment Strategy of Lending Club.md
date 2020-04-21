@@ -1,8 +1,8 @@
 Main Controbutor: 
-Zihan (Zilean) Chen 
-Yulong (Michael) Wang @wyyyl
-Chenyi (Leo) Yang 
-Jie (Jay) Qian
+* Zihan Chen
+* Yulong Wang @wyyyl
+* Chenyi Yang 
+* Jie Qian
 
 
 
@@ -253,7 +253,9 @@ Last but not least, we have designed a simulation process used to compare differ
 # Appendix
 
 [1] Data Source: https://www.kaggle.com/wendykan/lending-club-loan-data
+
 [2] Original Strategy: https://github.com/kingaj12/bank-lc-sim
+
 [3] Optimal Strategy: 
 
 
