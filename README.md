@@ -1,4 +1,5 @@
-# An Optimal Investment Strategy of Lending Club
+An Optimal Investment Strategy of Lending Club
+====
 
 
 Main Controbutors: 
