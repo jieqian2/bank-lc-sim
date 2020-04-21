@@ -1,5 +1,5 @@
 # An Optimal Investment Strategy of Lending Club
-----
+
 
 Main Controbutors: 
 * Zihan Chen
