@@ -3,15 +3,11 @@
 
 Main Controbutors: 
 * Zihan Chen
-* Yulong Wang @wyyyl
+* Yulong Wang
 * Chenyi Yang 
 * Jie Qian
 
-Remark: This is a new version of bank simulation regarding lending club dataset.
-
-Old version is developed by Alan King from IBM,
-
-Refer to https://github.com/IBM/bank-lc-sim
+Remark: This is a new version of bank simulation regarding lending club dataset. Old version is developed by Alan King from IBM, refer to https://github.com/IBM/bank-lc-sim
 
 
 
